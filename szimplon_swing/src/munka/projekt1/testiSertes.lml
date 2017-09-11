@@ -1,0 +1,120 @@
+<testiSertes>(<lex/>)
+
+ §{
+
+
+<testi sértés>
+{<sért> <akire_irányul/> {<testi épség/> vagy <egészség/>} </sért>}
+</testi sértés>
+
+<könnyű testi sértés>(<testi sértés/>)
+{
+<sérülés>
+<nyolc napon belül gyógyul/>
+</sérülés>
+
+vagy
+
+<betegség>
+<nyolc napon belül gyógyul/>
+</betegség>
+
+}
+
+[
+<vétség>
+<szabadságvesztés>
+<két évig terjedő/>
+</szabadságvesztés>
+</vétség>
+]
+
+</könnyű testi sértés>
+
+<súlyos testi sértés>(<testi sértés/>)
+
+{
+<sérülés>
+<nyolc napon túl gyógyul/>
+</sérülés>
+
+vagy
+
+<betegség>
+<nyolc napon túl gyógyul/>
+</betegség>
+
+}
+
+[
+<bűntett>
+<szabadságvesztés>
+<három évig terjedő/>
+</szabadságvesztés>
+</bűntett>
+
+]
+
+</súlyos testi sértés>
+
+<könnyű testi sértés_minősített_1>(<könnyű testi sértés/>)
+{
+vagy
+<aljas indokból/>
+<aljas célból/>
+<védekezésre képtelen személy sérelmére/>
+<akaratnyilvánításra képtelen személy sérelmére/>
+<bűncselekmény elhárítására idős koránál fogva korlátozottan képes személy sérelmére/>
+<bűncselekmény elhárítására fogyatékosságánál fogva korlátozottan képes személy sérelmére/>
+}
+[
+<bűntett>
+<szabadságvesztés>
+<három évig terjedő/>
+</szabadságvesztés>
+</bűntett>
+]
+</könnyű testi sértés_minősített_1>
+
+<könnyű testi sértés_minősített_2>(<könnyű testi sértés/>)
+{
+vagy
+<maradandó fogyatékosságot okoz/>
+<súlyos egészségromlást okoz/>
+}
+[
+<szabadságvesztés>
+<egy évtől öt évig terjedő/>
+</szabadságvesztés>
+]
+</könnyű testi sértés_minősített_2>
+
+<súlyos testi sértés_minősített_1>(<súlyos testi sértés/>)
+{
+vagy
+<aljas indokból/>
+<aljas célból/>
+<védekezésre képtelen személy sérelmére/>
+<akaratnyilvánításra képtelen személy sérelmére/>
+<bűncselekmény elhárítására idős koránál fogva korlátozottan képes személy sérelmére/>
+<bűncselekmény elhárítására fogyatékosságánál fogva korlátozottan képes személy sérelmére/>
+<maradandó fogyatékosságot okoz/>
+<súlyos egészségromlást okoz/>
+<különös kegyetlenséggel/>
+}
+[
+<szabadságvesztés>
+<egy évtől öt évig terjedő/>
+</szabadságvesztés>
+]
+
+</súlyos testi sértés_minősített_1>
+
+
+}§
+
+
+</testiSertes>
+
+
+

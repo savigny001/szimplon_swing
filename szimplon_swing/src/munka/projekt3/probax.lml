@@ -1,0 +1,37 @@
+<probax>
+
+§{
+
+<ember>
+{<fej/>
+<törzs/>
+<kéz/>
+<láb/>}
+</ember>
+
+<cowboy>(<ember/>)
+{
+<ló/>
+{<pisztoly/> vagy <puska/>}
+
+}
+</cowboy>
+
+<sheriff>(<cowboy/>)
+{<sheriff csillag/>}
+
+</sheriff>
+
+<párbaj>
+<párbajozó_1/>(<cowboy/>)
+<párbajozó_2/>(<cowboy/>)
+</párbaj>
+
+}§
+
+</probax>
+
+
+
+
+

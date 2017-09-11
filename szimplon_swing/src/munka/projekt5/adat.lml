@@ -1,0 +1,32 @@
+<adat>
+<vallalkozas>
+$nev$="Spar Magyarország Kft."
+$szekhely$="2060 Bicske, Spar út 0326/1."
+
+<kepviselo>
+$nev$="Kajtár Takács Hegymegi-Barakonyi Baker & McKenzie Ügyvédi Iroda"
+$szekhely$="1051 Budapest, Dorottya u. 6."
+</kepviselo>
+
+</vallalkozas>
+
+<termék>
+
+</termék>
+
+<ügyintéző>
+$nev$="dr. Sándor Zoltán"
+$telefon$="06-1-459814"
+</ügyintéző>
+
+<elsőfok>
+$nev$="Budapest Főváros Kormányhivatala"
+
+<határozat>
+$iktatoszam$="BPO/001/3143-2/2015."
+$kelt$="2016.01.23"
+</határozat>
+</elsőfok>
+
+</adat>
+

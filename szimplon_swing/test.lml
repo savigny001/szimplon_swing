@@ -1,0 +1,21 @@
+<iratunk>(<valami/>)[
+
+<text.header>	
+Ez fejlécbe megy.
+</text.header>
+
+<valami>
+#text.style#="bold"
+Ez már a szövegtörzsbe, félkövéren. 
+	
+<a> ez is a szövegtörzs </a><in> ez is a törzs </in>
+</valami>
+
+<mas>
+#text.color#="blue"
+#text.alignment#="right"
+
+Ez piros és jobbra.
+</mas>
+
+]</iratunk>

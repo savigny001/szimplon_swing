@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexes>
+  <lex id="pif">
+  	<source
+	  	online ="http://net.jogtar.hu/jr/gen/hjegy_doc.cgi?docid=A1200088.TV"
+	    file = "pftv.lml"
+  	/>
+  	<ids
+  		year = "2012"
+  		number = "88"
+  		type = "törvény"
+  		name = "a termékek piacfelügyeletéről"
+  		short_name = "Pftv."
+  	/>
+    <lex_structure>
+    	<formula
+    		simpleFormula = "N. §"
+    		name = ""
+    		idFormula = "true"
+    		alwaysShownFormula = "true"
+    	>
+    		<alternFormula
+    			simpleFormula ="N/A. §"
+    			name = ""
+	    		idFormula = "true"
+	    		alwaysShownFormula = "true"
+    		/>  	
+    	</formula>
+    	<formula
+    		simpleFormula ="(N)"
+    		name = "bekezdés"
+    		idFormula = "true"
+    		alwaysShownFormula = "false"
+    	>
+    		<alternFormula
+	    		simpleFormula ="(Na)"
+	    		name = "bekezdés"
+	    		idFormula = "true"
+	    		alwaysShownFormula = "false"
+    		/>  	
+    	</formula>
+     	<formula
+    		simpleFormula ="a)"
+    		name = "pont"
+    		idFormula = "true"
+    		alwaysShownFormula = "false"
+    		frame = "true"
+    	/>
+    	<formula
+    		simpleFormula ="aa)"
+    		name = "pont"
+    		idFormula = "true"
+    		alwaysShownFormula = "false"
+    		frame = "true"
+    	/>
+    </lex_structure>
+  </lex>
+  <lex id="fogy">
+  	<source
+	  	online ="http://net.jogtar.hu/jr/gen/hjegy_doc.cgi?docid=99700155.TV"
+	    file = "fgytv.lml"
+  	/>
+  	<ids
+  		year = "1997"
+  		number = "140"
+  		type = "törvény"
+  		name = "a fogyasztóvédelemről"
+  		short_name = "Fgytv."
+  	/>
+    <lex_structure>
+    	<formula
+    		simpleFormula = "N. §"
+    		name = ""
+    		idFormula = "true"
+    		alwaysShownFormula = "true"
+    	>
+    		<alternFormula
+    			simpleFormula ="N/A. §"
+    			name = ""
+	    		idFormula = "true"
+	    		alwaysShownFormula = "true"
+    		/>  	
+    	</formula>
+    	<formula
+    		simpleFormula ="(N)"
+    		name = "bekezdés"
+    		idFormula = "true"
+    		alwaysShownFormula = "false"
+    	>
+    		<alternFormula
+	    		simpleFormula ="(Na)"
+	    		name = "bekezdés"
+	    		idFormula = "true"
+	    		alwaysShownFormula = "false"
+    		/>  	
+    	</formula>
+		<formula
+    		simpleFormula ="a)"
+    		name = "pont"
+    		idFormula = "true"
+    		alwaysShownFormula = "false"
+    		frame = "true"
+    	/>
+    	<formula
+    		simpleFormula ="aa)"
+    		name = "pont"
+    		idFormula = "true"
+    		alwaysShownFormula = "false"
+    		frame = "true"
+    	/>
+    </lex_structure>
+  </lex>
+</lexes>

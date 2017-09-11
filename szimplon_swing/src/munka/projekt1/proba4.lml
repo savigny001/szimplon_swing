@@ -1,0 +1,43 @@
+<proba4>(<tags/>)
+
+§{
+<szöveg>
+
+§{
+<szín>
+vagy
+<piros> $tag$="piros" </piros>
+<fekete> $tag$="fekete" </fekete>
+<kék> $tag$="kék" </kék>
+</szín>
+
+<elrendezés>
+vagy
+<balra> $tag$="balra" </balra>
+<jobbra> $tag$="jobbra" </jobbra>
+<középre> $tag$="középre" </középre>
+<sorkizárt> $tag$="sorkizárt" </sorkizárt>
+</elrendezés>
+
+}§
+
+</szöveg>
+
+<döntés>
+
+§{
+<típus>
+vagy
+<határozat> $tag$="határozat" </határozat>
+<végzés> $tag$="határozat" </végzés>
+</típus>
+
+}§
+
+</döntés>
+
+}§
+
+</proba4>
+
+

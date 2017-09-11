@@ -1,0 +1,15 @@
+<fogalom>(<valami/>)[
+ 	
+<fejlec>
+	#text.alignment#="center"
+	#text.color#="red"
+	#text.type#="Arial"
+</fejlec>
+<text.pagebrake/>
+<fejlec2>
+	#text.alignment#="left"
+	#text.color#="blue"
+	#text.size#="18"
+</fejlec2>
+
+]</fogalom>

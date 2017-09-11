@@ -1,0 +1,56 @@
+﻿<test2>(<valami/>)
+
+{<alma/> vagy <banán/>}
+{<narancs/> vagy <körte/>}
+
+
+[
+
+<fruit>(<dolog/>)
+
+$valami$="érték"
+
+</fruit>
+
+<eper>(<fruit/>)
+
+itt az eper
+
+</eper>
+<alma>(<fruit/>)
+
+itt van az alma szöveg
+
+<banán>(<fruit/>)
+
+ itt van a banán szöveg
+
+<lego>
+
+itt van a lego szöveg
+
+</lego>
+
+</banán>
+
+<orange>(<fruit/>)
+
+ itt van a narancs szöveg
+
+</orange>
+
+</alma>
+
+]
+
+</test2>
+
+
+
+
+
+
+
+
+
+
